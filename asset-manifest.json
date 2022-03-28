@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://afzalsulemani92.github.io/csb-u30vfw/static/js/main.c67acfa4.chunk.js",
+    "main.js.map": "https://afzalsulemani92.github.io/csb-u30vfw/static/js/main.c67acfa4.chunk.js.map",
+    "runtime-main.js": "https://afzalsulemani92.github.io/csb-u30vfw/static/js/runtime-main.f87914c2.js",
+    "runtime-main.js.map": "https://afzalsulemani92.github.io/csb-u30vfw/static/js/runtime-main.f87914c2.js.map",
+    "static/js/2.3c779e7e.chunk.js": "https://afzalsulemani92.github.io/csb-u30vfw/static/js/2.3c779e7e.chunk.js",
+    "static/js/2.3c779e7e.chunk.js.map": "https://afzalsulemani92.github.io/csb-u30vfw/static/js/2.3c779e7e.chunk.js.map",
+    "index.html": "https://afzalsulemani92.github.io/csb-u30vfw/index.html",
+    "precache-manifest.73f79f5ebc5b0c24a09fcba189546948.js": "https://afzalsulemani92.github.io/csb-u30vfw/precache-manifest.73f79f5ebc5b0c24a09fcba189546948.js",
+    "service-worker.js": "https://afzalsulemani92.github.io/csb-u30vfw/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f87914c2.js",
+    "static/js/2.3c779e7e.chunk.js",
+    "static/js/main.c67acfa4.chunk.js"
+  ]
+}
